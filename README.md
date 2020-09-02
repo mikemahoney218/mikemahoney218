@@ -1,4 +1,4 @@
-## Mike Mahoney, Scientist to the Stars
+## Mike Mahoney, Thinking About TreeR
 
 I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/) at [SUNY-ESF](esf.edu/), working on ways to move New York towards a net-zero carbon future. On the side I maintain a few R packages ([heddlr](https://github.com/mikemahoney218/heddlr) and [spacey](https://github.com/mikemahoney218/spacey)), run a few tweetbots ([@fortunes_teller](https://github.com/mikemahoney218/fortunes_teller) and [@ecology_tweets](https://github.com/mikemahoney218/retweet_bot)), and hack on my (PhD-stipend sized) [homelab](https://github.com/mikemahoney218/pi-admin). I'm at my best with R or SQL, but have seen projects through using Bash/Python/Rust/Javascript too.
 
