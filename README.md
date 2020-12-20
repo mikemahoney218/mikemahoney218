@@ -1,6 +1,21 @@
-## Mike Mahoney, Dreaming of Digital Dirt
+## Mike Mahoney, Now in 3D
 
-I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/) at [SUNY-ESF](esf.edu/), working on model interpretability and landscape visualization. I also maintain a handful of R packages ([terrainr](https://github.com/mikemahoney218/terrainr), [heddlr](https://github.com/mikemahoney218/heddlr) and [spacey](https://github.com/mikemahoney218/spacey)), run a few tweetbots ([@fortunes_teller](https://github.com/mikemahoney218/fortunes_teller), [@ecology_tweets, @rstats_tweets and @30daymap_tweets](https://github.com/mikemahoney218/retweet_bot), and [@fund_me_please_](https://twitter.com/fund_me_please_)), and hack on my (PhD-stipend sized) [homelab](https://github.com/mikemahoney218/pi-admin). I'm at my best with R or SQL, but have seen projects through using Bash/Python/Rust/Javascript too.
+I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/) at [SUNY-ESF](esf.edu/), working on machine learning for ecological outcomes, model interpretability, and landscape visualization. I also maintain a handful of R packages:
+
+| Package | What it does |
+|---------|--------------|
+| [terrainr](https://github.com/mikemahoney218/terrainr) | Transform geospatial data for rendering in Unity 3D (and download data from the USGS National Map) |
+| [heddlr](https://github.com/mikemahoney218/heddlr) | Functionally compose R Markdown from repeated components | 
+| [proceduralnames](https://github.com/mikemahoney218/proceduralnames) | Generate human-readable random identifiers |
+| [plantr](https://github.com/mikemahoney218/plantr) | Download data from the USDA PLANTS API |
+
+And run a handful of Twitter bots:
+
+| Tweetbot | What it does |
+|-|-|
+| [@fortunes_teller](https://twitter.com/fortunes_teller) | GPT-2 bot dispensing fortune-cookie wisdom |
+| [@fund_me_please_](https://twitter.com/fund_me_please_) | GPT-2 bot writing NSF GRFP personal statements |
+| [@ecology_tweets](https://twitter.com/ecology_tweets), [@rstats_tweets](https://twitter.com/rstats_tweets), and [@30daymap_tweets](https://twitter.com/30daymap_tweets) | Retweet bots amplifying specific subsets of hashtags |
 
 ### Other places you can find me
 
