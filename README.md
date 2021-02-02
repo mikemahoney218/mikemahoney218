@@ -8,6 +8,7 @@ I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/) a
 | [heddlr](https://github.com/mikemahoney218/heddlr) | Functionally compose R Markdown from repeated components | 
 | [proceduralnames](https://github.com/mikemahoney218/proceduralnames) | Generate human-readable random identifiers |
 | [plantr](https://github.com/mikemahoney218/plantr) | Download data from the USDA PLANTS API |
+| [mvdf](https://github.com/mikemahoney218/mvdf) | A standardized approach to using R as a frontend for the Blender 3D rendering program |
 
 And run a handful of Twitter bots:
 
