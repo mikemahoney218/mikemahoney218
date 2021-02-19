@@ -4,7 +4,7 @@ I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/) a
 
 | Package | What it does |
 |---------|--------------|
-| [terrainr](https://github.com/mikemahoney218/terrainr) | Transform geospatial data for rendering in Unity 3D (and download data from the USGS National Map) |
+| [terrainr](https://github.com/ropensci/terrainr) | Transform geospatial data for rendering in Unity 3D (and download data from the USGS National Map) |
 | [heddlr](https://github.com/mikemahoney218/heddlr) | Functionally compose R Markdown from repeated components | 
 | [proceduralnames](https://github.com/mikemahoney218/proceduralnames) | Generate human-readable random identifiers |
 | [plantr](https://github.com/mikemahoney218/plantr) | Download data from the USDA PLANTS API |
