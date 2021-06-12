@@ -14,6 +14,7 @@ And run a handful of Twitter bots:
 
 | Tweetbot | What it does |
 |-|-|
+| [@greater_gatsby](https://twitter.com/greater_gatsby) | A BigGAN & CLIP neural network tweeting out AI-drawn images inspired by sentences from the Great Gatsby. |
 | [@fortunes_teller](https://twitter.com/fortunes_teller) | GPT-2 bot dispensing fortune-cookie wisdom |
 | [@proc_tweets](https://twitter.com/proc_tweets) | Bot tweeting procedurally-generated art and names (hosted on [GitHub Actions](https://github.com/mikemahoney218/proc_tweets)) |
 | [@ecology_tweets](https://twitter.com/ecology_tweets), [@rstats_tweets](https://twitter.com/rstats_tweets), and [@30daymap_tweets](https://twitter.com/30daymap_tweets) | Retweet bots amplifying specific subsets of hashtags |
