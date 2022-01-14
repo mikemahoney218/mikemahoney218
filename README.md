@@ -1,4 +1,4 @@
-## Mike Mahoney, Now in 3D
+## Mike Mahoney, Now in TreeD
 
 I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/) at [SUNY-ESF](esf.edu/), working on machine learning for ecological outcomes, model interpretability, and landscape visualization. I also maintain a handful of R packages:
 
@@ -8,6 +8,7 @@ I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/) a
 | Package | What it does |
 |---------|--------------|
 | [terrainr](https://github.com/ropensci/terrainr) | Transform geospatial data for rendering in Unity 3D (and download data from the USGS National Map) |
+| [unifir](https://github.com/mikemahoney218/unifir) |  A unifying interface for calling Unity from R  |
 | [heddlr](https://github.com/mikemahoney218/heddlr) | Functionally compose R Markdown from repeated components | 
 | [proceduralnames](https://github.com/mikemahoney218/proceduralnames) | Generate human-readable random identifiers |
 | [plantr](https://github.com/mikemahoney218/plantr) | Download data from the USDA PLANTS API |
