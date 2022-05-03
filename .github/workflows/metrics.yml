@@ -17,7 +17,7 @@ jobs:
           # Options
           user: mikemahoney218
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, metadata
           config_animations: yes
           config_timezone: America/New_York
           plugin_languages: yes
