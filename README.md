@@ -1,5 +1,4 @@
-# Mike Mahoney, Now in TreeD <img src="/github-metrics.svg" align="right"/>
-
+# Mike Mahoney, Now in TreeD
 
 I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/) at [SUNY-ESF](esf.edu/), working on machine learning for ecological outcomes, model interpretability, and landscape visualization. I also maintain a handful of R packages:
 
@@ -28,3 +27,5 @@ And run a handful of Twitter bots:
 ### Other places you can find me
 
 Find me on [Twitter](https://twitter.com/MikeMahoney218) or [Twitter](https://twitter.com/fortunes_teller) or [Twitter](https://twitter.com/ecology_tweets) or [Twitter](https://twitter.com/rstats_tweets) or [Twitter](https://twitter.com/fund_me_please_) or [Twitter](@30daymap_tweets). Check out my [CV](https://github.com/mikemahoney218/Resume_CV/blob/master/Mahoney_CV.pdf) or the [code I use to build it](https://github.com/mikemahoney218/Resume_CV). Over on my [website](https://www.mm218.dev/) I keep a [blog for technical projects](https://www.mm218.dev/blog), and a [page of quotes I want to find again](https://www.mm218.dev/quotes).
+
+![Metrics](/github-metrics.svg)
