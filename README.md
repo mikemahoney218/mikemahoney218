@@ -1,4 +1,5 @@
-## Mike Mahoney, Now in TreeD
+# Mike Mahoney, Now in TreeD <img src="/github-metrics.svg" align="right"/>
+
 
 I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/) at [SUNY-ESF](esf.edu/), working on machine learning for ecological outcomes, model interpretability, and landscape visualization. I also maintain a handful of R packages:
 
