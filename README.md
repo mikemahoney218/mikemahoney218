@@ -7,6 +7,7 @@ I'm an intern at [RStudio](https://github.com/rstudio) working on tools for [spa
 
 | Package | What it does |
 |---------|--------------|
+| [spatialsample](https://github.com/tidymodels/spatialsample) | A tidymodels package for spatial resampling |
 | [waywiser](https://github.com/mikemahoney218/waywiser) | Yardstick extensions for measuring spatial structure in model residuals |
 | [terrainr](https://github.com/ropensci/terrainr) | Transform geospatial data for rendering in Unity 3D (and download data from the USGS National Map) |
 | [unifir](https://github.com/mikemahoney218/unifir) |  A unifying interface for calling Unity from R  |
@@ -15,7 +16,7 @@ I'm an intern at [RStudio](https://github.com/rstudio) working on tools for [spa
 | [plantr](https://github.com/mikemahoney218/plantr) | Download data from the USDA PLANTS API |
 | [mvdf](https://github.com/mikemahoney218/mvdf) | A standardized approach to using R as a frontend for the Blender 3D rendering program |
 
-While not formally the package maintainer, I also wrote large parts of [spatialsample](https://github.com/tidymodels/spatialsample) (a tidymodels package for spatial resampling) and implemented grouped resampling in [rsample](https://github.com/tidymodels/rsample/) (a tidymodels package for non-spatial resampling).
+While not the package maintainer, I also implemented grouped resampling in [rsample](https://github.com/tidymodels/rsample/) (a tidymodels package for non-spatial resampling).
 
 I also run a handful of Twitter bots:
 
