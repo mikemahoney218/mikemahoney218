@@ -1,6 +1,6 @@
 # Mike Mahoney, Now in TreeD
 
-I'm an intern at [RStudio](https://github.com/rstudio) working on tools for [spatial resampling for model validation](https://github.com/tidymodels/spatialsample). In my regular life, I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/) at [SUNY-ESF](esf.edu/), working on machine learning for ecological outcomes, model interpretability, and landscape visualization. I also maintain a handful of R packages:
+I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/) at [SUNY-ESF](esf.edu/), working on machine learning for ecological outcomes, model interpretability, and landscape visualization. I also maintain a handful of R packages:
 
 [![:name status badge](https://mikemahoney218.r-universe.dev/badges/:name)](https://mikemahoney218.r-universe.dev)
 [![:total status badge](https://mikemahoney218.r-universe.dev/badges/:total)](https://mikemahoney218.r-universe.dev)
@@ -16,7 +16,7 @@ I'm an intern at [RStudio](https://github.com/rstudio) working on tools for [spa
 | [plantr](https://github.com/mikemahoney218/plantr) | Download data from the USDA PLANTS API |
 | [mvdf](https://github.com/mikemahoney218/mvdf) | A standardized approach to using R as a frontend for the Blender 3D rendering program |
 
-While not the package maintainer, I also implemented grouped resampling in [rsample](https://github.com/tidymodels/rsample/) (a tidymodels package for non-spatial resampling).
+While not the package maintainer, I also implemented grouped resampling in [rsample](https://github.com/tidymodels/rsample/) (a tidymodels package for non-spatial resampling), which (alongside spatialsample) I worked on as an intern at [RStudio](https://github.com/rstudio).
 
 I also run a handful of Twitter bots:
 
