@@ -18,7 +18,14 @@ I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/) a
 
 While not the package maintainer, I also implemented grouped resampling in [rsample](https://github.com/tidymodels/rsample/) (a tidymodels package for non-spatial resampling), which (alongside spatialsample) I worked on as an intern at [RStudio](https://github.com/rstudio).
 
-I also run a handful of Twitter bots:
+I also have written a couple of Quarto extensions:
+
+| Extension | What it does |
+| --- | --- |
+| [quarto-arxiv](https://github.com/mikemahoney218/quarto-arxiv) | A Quarto template for preprints |
+| [quarto-tandf](https://github.com/mikemahoney218/quarto-tandf) | A Quarto template for Taylor and Francis journals |
+
+And run a handful of Twitter bots:
 
 | Tweetbot | What it does |
 |-|-|
