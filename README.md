@@ -2,7 +2,7 @@
 
 ***I'll be paying a lot less attention to GitHub and emails from 2022-09-12 - 2022-11-02. The projects below are still active, and I'll make sure to look at issues and PRs when I return.***
 
-I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/) at [SUNY-ESF](esf.edu/), working on machine learning for ecological outcomes, model interpretability, and landscape visualization. I also maintain a handful of R packages:
+I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/), working on machine learning for ecological outcomes, model interpretability, and landscape visualization. I also maintain a handful of R packages:
 
 [![:name status badge](https://mikemahoney218.r-universe.dev/badges/:name)](https://mikemahoney218.r-universe.dev)
 [![:total status badge](https://mikemahoney218.r-universe.dev/badges/:total)](https://mikemahoney218.r-universe.dev)
