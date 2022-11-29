@@ -24,6 +24,7 @@ I also have written a couple of Quarto extensions:
 | --- | --- |
 | [quarto-arxiv](https://github.com/mikemahoney218/quarto-arxiv) | A Quarto template for preprints |
 | [quarto-tandf](https://github.com/mikemahoney218/quarto-tandf) | A Quarto template for Taylor and Francis journals |
+| [quarto-agu](https://github.com/mikemahoney218/quarto-agu) | A Quarto template for AGU journals |
 
 And run a handful of Twitter bots:
 
