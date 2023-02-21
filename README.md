@@ -12,7 +12,6 @@ I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/), 
 | [unifir](https://github.com/mikemahoney218/unifir) |  A unifying interface for calling Unity from R  |
 | [heddlr](https://github.com/mikemahoney218/heddlr) | Functionally compose R Markdown from repeated components | 
 | [proceduralnames](https://github.com/mikemahoney218/proceduralnames) | Generate human-readable random identifiers |
-| [plantr](https://github.com/mikemahoney218/plantr) | Download data from the USDA PLANTS API |
 | [mvdf](https://github.com/mikemahoney218/mvdf) | A standardized approach to using R as a frontend for the Blender 3D rendering program |
 
 I've also taken over maintenance of the [geojsonio](https://cran.r-project.org/package=geojsonio) package, though I wrote very little of the actual functionality. While not the package maintainer, I also implemented grouped resampling in [rsample](https://github.com/tidymodels/rsample/) (a tidymodels package for non-spatial resampling), which (alongside spatialsample) I worked on as an intern at [RStudio](https://github.com/rstudio).
