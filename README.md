@@ -7,7 +7,7 @@ I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/), 
 | Package | What it does |
 |---------|--------------|
 | [spatialsample](https://github.com/tidymodels/spatialsample) | A tidymodels package for spatial resampling |
-| [waywiser](https://github.com/mikemahoney218/waywiser) | Yardstick extensions for measuring spatial structure in model residuals |
+| [waywiser](https://github.com/ropensci/waywiser) | Yardstick extensions for measuring spatial structure in model residuals |
 | [terrainr](https://github.com/ropensci/terrainr) | Transform geospatial data for rendering in Unity 3D (and download data from the USGS National Map) |
 | [unifir](https://github.com/mikemahoney218/unifir) |  A unifying interface for calling Unity from R  |
 | [heddlr](https://github.com/mikemahoney218/heddlr) | Functionally compose R Markdown from repeated components | 
