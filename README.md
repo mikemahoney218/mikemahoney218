@@ -24,19 +24,9 @@ I also have written a couple of Quarto extensions:
 | [quarto-tandf](https://github.com/mikemahoney218/quarto-tandf) | A Quarto template for Taylor and Francis journals |
 | [quarto-agu](https://github.com/mikemahoney218/quarto-agu) | A Quarto template for AGU journals -- now part of [quarto-journals](https://github.com/quarto-journals/agu) |
 
-And run a handful of Twitter bots:
-
-| Tweetbot | What it does |
-|-|-|
-| [@greater_gatsby](https://twitter.com/greater_gatsby) | A BigGAN & CLIP neural network tweeting out AI-drawn images inspired by sentences from the Great Gatsby. |
-| [@fortunes_teller](https://twitter.com/fortunes_teller) | GPT-2 bot dispensing fortune-cookie wisdom |
-| [@proc_tweets](https://twitter.com/proc_tweets) | Bot tweeting procedurally-generated art and names (hosted on [GitHub Actions](https://github.com/mikemahoney218/proc_tweets)) |
-| [@ecology_tweets](https://twitter.com/ecology_tweets), [@rstats_tweets](https://twitter.com/rstats_tweets), and [@30daymap_tweets](https://twitter.com/30daymap_tweets) | Retweet bots amplifying specific subsets of hashtags |
-| [@fund_me_please_](https://twitter.com/fund_me_please_) | GPT-2 bot writing NSF GRFP personal statements. Ran for four months in 2020. |
-
 ### Other places you can find me
 
-I'm testing out [Mastodon](https://fosstodon.org/@MikeMahoney218) these days! I'm also on [Twitter](https://twitter.com/MikeMahoney218) or [Twitter](https://twitter.com/fortunes_teller) or [Twitter](https://twitter.com/ecology_tweets) or [Twitter](https://twitter.com/rstats_tweets) or [Twitter](https://twitter.com/fund_me_please_) or [Twitter](@30daymap_tweets). Check out my [CV](https://github.com/mikemahoney218/Resume_CV/blob/master/Mahoney_CV.pdf) or the [code I use to build it](https://github.com/mikemahoney218/Resume_CV). Over on my [website](https://www.mm218.dev/) I keep a [blog for technical projects](https://www.mm218.dev/blog), and a [page of quotes I want to find again](https://www.mm218.dev/quotes).
+I'm testing out [Mastodon](https://fosstodon.org/@MikeMahoney218) and [BlueSky](https://bsky.app/profile/mikemahoney218.bsky.social) these days! Check out my [CV](https://github.com/mikemahoney218/Resume_CV/blob/master/Mahoney_CV.pdf) or the [code I use to build it](https://github.com/mikemahoney218/Resume_CV). Over on my [website](https://www.mm218.dev/) I keep a [blog for technical projects](https://www.mm218.dev/blog), and a [page of quotes I want to find again](https://www.mm218.dev/quotes).
 
 ![Metrics](/github-metrics.svg)
 
