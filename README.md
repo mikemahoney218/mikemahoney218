@@ -6,6 +6,7 @@ I'm a PhD candidate in [Colin Beier's lab](https://www.esf.edu/faculty/beier/), 
 
 | Package | What it does |
 |---------|--------------|
+| [rsi](https://github.com/Permian-Global-Research/rsi) | Functions for the data processing parts of spatial modeling workflows: download data from STAC APIs, calculate spectral indices, and warp it all together |
 | [spatialsample](https://github.com/tidymodels/spatialsample) | A tidymodels package for spatial resampling |
 | [waywiser](https://github.com/ropensci/waywiser) | Yardstick extensions for measuring spatial structure in model residuals |
 | [terrainr](https://github.com/ropensci/terrainr) | Transform geospatial data for rendering in Unity 3D (and download data from the USGS National Map) |
