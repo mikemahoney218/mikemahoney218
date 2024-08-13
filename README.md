@@ -1,6 +1,6 @@
 # Mike Mahoney, The Ghost in the Machine
 
-I'm a researcher in [Colin Beier's lab](https://www.esf.edu/faculty/beier/), working on machine learning for ecological outcomes, model interpretability, and landscape visualization. I also maintain a handful of R packages:
+I'm an environmental technologist, working on improving how we deliver data in near-real time. I also maintain a handful of R packages:
 
 [![:name status badge](https://mikemahoney218.r-universe.dev/badges/:name)](https://mikemahoney218.r-universe.dev)
 
